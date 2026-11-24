@@ -1,0 +1,15 @@
+{
+  "name": "email-classification",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@azure/cosmos": "^4.0.0",
+    "@modelcontextprotocol/sdk": "^1.17.3",
+    "express": "^4.21.2",
+    "zod": "^3.25.76"
+  }
+}
+
